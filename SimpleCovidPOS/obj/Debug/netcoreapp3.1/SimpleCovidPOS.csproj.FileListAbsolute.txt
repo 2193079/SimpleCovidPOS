@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\SimpleCovidPOS\SimpleCovidPOS\obj\Debug\netcoreapp3.1\SimpleCovidPOS.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SimpleCovidPOS\SimpleCovidPOS\obj\Debug\netcoreapp3.1\SimpleCovidPOS.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SimpleCovidPOS\SimpleCovidPOS\obj\Debug\netcoreapp3.1\SimpleCovidPOS.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SimpleCovidPOS\SimpleCovidPOS\obj\Debug\netcoreapp3.1\SimpleCovidPOS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SimpleCovidPOS\SimpleCovidPOS\bin\Debug\netcoreapp3.1\SimpleCovidPOS.exe
+C:\Users\Lenovo\source\repos\SimpleCovidPOS\SimpleCovidPOS\bin\Debug\netcoreapp3.1\SimpleCovidPOS.deps.json
+C:\Users\Lenovo\source\repos\SimpleCovidPOS\SimpleCovidPOS\bin\Debug\netcoreapp3.1\SimpleCovidPOS.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SimpleCovidPOS\SimpleCovidPOS\bin\Debug\netcoreapp3.1\SimpleCovidPOS.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SimpleCovidPOS\SimpleCovidPOS\bin\Debug\netcoreapp3.1\SimpleCovidPOS.dll
+C:\Users\Lenovo\source\repos\SimpleCovidPOS\SimpleCovidPOS\bin\Debug\netcoreapp3.1\SimpleCovidPOS.pdb
+C:\Users\Lenovo\source\repos\SimpleCovidPOS\SimpleCovidPOS\obj\Debug\netcoreapp3.1\SimpleCovidPOS.dll
+C:\Users\Lenovo\source\repos\SimpleCovidPOS\SimpleCovidPOS\obj\Debug\netcoreapp3.1\SimpleCovidPOS.pdb
+C:\Users\Lenovo\source\repos\SimpleCovidPOS\SimpleCovidPOS\obj\Debug\netcoreapp3.1\SimpleCovidPOS.genruntimeconfig.cache
