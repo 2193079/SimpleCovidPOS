@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SimpleCovidPOS"
   ],
+  "SelectedNode": "\\SimpleCovidPOS\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
